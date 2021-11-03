@@ -7,7 +7,7 @@ http://www-mmsp.ece.mcgill.ca/Documents/AudioFormats/WAVE/WAVE.html
 It was generated using the commands:
 
 ```bash
-wget --mirror http://www-mmsp.ece.mcgill.ca/Documents/AudioFormats/WAVE/Wave.html
+wget --mirror http://www-mmsp.ece.mcgill.ca/Documents/AudioFormats/WAVE/WAVE.html
 wget --mirror http://www-mmsp.ece.mcgill.ca/Documents/AudioFormats/WAVE/Samples.html
 ```
 
@@ -15,7 +15,7 @@ wget --mirror http://www-mmsp.ece.mcgill.ca/Documents/AudioFormats/WAVE/Samples.
 
 You can view the backups by hitting these urls:
 
-- https://projects.skratchdot.com/wave-file-specifications/Documents/AudioFormats/WAVE/Wave.html
+- https://projects.skratchdot.com/wave-file-specifications/Documents/AudioFormats/WAVE/WAVE.html
 - https://projects.skratchdot.com/wave-file-specifications/Documents/AudioFormats/WAVE/Samples.html
 
 ## Other Links
